@@ -11,7 +11,6 @@ function Carrusel(){
       <div>
         <div>
         <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
-
         <div class="carousel-inner anchoImagen">
           <div class="carousel-item active" data-bs-interval="10000">
             <img src={Zapato1} class="d-block w-100 anchoImagen" alt="..."></img>
