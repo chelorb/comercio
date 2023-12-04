@@ -1,0 +1,14 @@
+.anchoImagen{
+
+    max-height: 800px;
+}
+
+.logoBottiello{
+    position: absolute;
+    top: -215px;
+    left: -64px;
+}
+
+.imagenContenedor {
+    position: relative;
+  }
